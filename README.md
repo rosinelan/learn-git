@@ -13,7 +13,7 @@ github版本  https://services.github.com/on-demand/downloads/github-git-cheat-s
 tower版本除了常用命令总结，还有一些使用的最佳实践。  
 ``` shell
 tower版本
-英文
+英文  https://pan.baidu.com/s/1Sw1_UAQYIj7onbVerL01BQ
 中文  https://blog.csdn.net/xinyan233/article/details/80593091
 ```
 进阶版本
